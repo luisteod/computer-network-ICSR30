@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/home/luis/Documents/UTFPR/7-Periodo/redes/trab1/project/"), "trab1-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating trab1-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved trab1-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of trab1-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of trab1-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/home/luis/Documents/UTFPR/7-Periodo/redes/trab1/project/"), "trab1-build")[0m

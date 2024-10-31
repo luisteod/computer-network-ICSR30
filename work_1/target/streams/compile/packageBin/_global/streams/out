@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/luis/Documents/UTFPR/7-Periodo/redes/trab1/target/scala-2.13/trabalho-1-redes-de-computadores_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Client.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luis/Documents/UTFPR/7-Periodo/redes/trab1/target/scala-2.13/classes/Client.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Client$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luis/Documents/UTFPR/7-Periodo/redes/trab1/target/scala-2.13/classes/Client$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luis/Documents/UTFPR/7-Periodo/redes/trab1/target/scala-2.13/classes/common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/CommonLib$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luis/Documents/UTFPR/7-Periodo/redes/trab1/target/scala-2.13/classes/common/CommonLib$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/CommonLib.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luis/Documents/UTFPR/7-Periodo/redes/trab1/target/scala-2.13/classes/common/CommonLib.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luis/Documents/UTFPR/7-Periodo/redes/trab1/target/scala-2.13/classes/Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/luis/Documents/UTFPR/7-Periodo/redes/trab1/target/scala-2.13/classes/Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
