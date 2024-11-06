@@ -1,0 +1,1 @@
+In more functional Scala libraries (like Cats Effect or ZIO), the "infinite loop" pattern is handled with functional effect constructs. Using Cats Effect IO as an example, you can run a loop with IO in a purely functional way while still supporting interruption and safe execution.

@@ -22,6 +22,8 @@ project/target
 .nfs*
 
 .bsp
+.metals
+.scala-build
 
 ### macOS ###
 # General
