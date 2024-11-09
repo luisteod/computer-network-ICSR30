@@ -1,4 +1,4 @@
-name := "UdpClient"
+name := "Client"
 
 version := "0.1"
 

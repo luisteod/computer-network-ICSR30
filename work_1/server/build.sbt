@@ -1,4 +1,4 @@
-name := "UdpServer"
+name := "Server"
 
 version := "0.1"
 
